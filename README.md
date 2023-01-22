@@ -1,11 +1,11 @@
-#Cara Pakai
+# Cara Pakai
 
 ```
 -Sebelum memulai kita perlu nodejs terlebih dahulu. Caranya dengan download nodejs di https://nodejs.org/
 -Jika sudah baru lakukan step - step di bawah
 ```
 
-##Steps:
+## Steps:
 1. Buat server discord terlebih dahulu atau skip step ini jika ingin menambahkan bot baru ke dalam server yang sudah ada.
 2. Buka Discord Developer Portal
 3. Pilih Application -> New Application -> Kasih nama bot-mu -> Create
@@ -21,7 +21,7 @@
 13. Pilih API Keys.
 14. Klik "Create new secret keys" dan simpan api key tersebut karena nanti akan dipakai di script juga.
 
-##Clone repo dan Run Server
+## Clone repo dan Run Server
 ```
 git clone https://github.com/gamassss/discord-openai-bot.git
 cd discord-openai-bot

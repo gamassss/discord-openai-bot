@@ -1,4 +1,6 @@
 {
-	"apiKey": "GANTI_PAKE_API_KEY_OPENAI",
-	"client_token": "GANTI_PAKE_TOKEN_CLIENTMU"
+	"apiKey": "YOUR_API_KEY",
+	"client_token": "YOUR_CLIENT_TOKEN",
+	"guildId": "YOUR_GUILD_ID",
+	"clientId": "YOUR_CLIENT_ID"
 }
